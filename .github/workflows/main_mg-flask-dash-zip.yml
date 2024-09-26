@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'MG-Flask-Dash-Zip'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8541ED011E274087B0D7C6BC4CC3713B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_47F70618C7284FE38272C64C9FC12743 }}
